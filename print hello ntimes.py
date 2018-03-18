@@ -1,5 +1,5 @@
-n=input("enter the no of times to be printed")
+n=input()
 for i in range(n):
-	print("hello")
+	print("hello")print hello ntimes.py
 	 
 	
