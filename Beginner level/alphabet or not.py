@@ -1,5 +1,5 @@
-n=input()
-if ('a'<=n>='z')|('A'<=n>='Z'):
-	print("yes")
+n=str(raw_input())
+if 'a'<=n>='z':
+	print("Yes")
 else:
-	print("no")
+	print("No")
