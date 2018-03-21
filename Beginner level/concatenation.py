@@ -1,2 +1,2 @@
-n=raw_input()
-print (n + ".")
+S=raw_input()
+print (S + ".")
